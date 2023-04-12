@@ -1,0 +1,15 @@
+PARA PERMITIR QUE ESTA LIBRERIA FUNCIONES EN CUALQUIER LADO,
+COPIARLO A LA SIGUIENTE  DIRECCION:
+
+	Python36-32 --> Lib --> site-packages
+
+Luego de copiar la libreria en este lugar podemos verificar si
+se ha colocado correctamente en el shell del "IDLE" o en el "python.exe" 
+colocando el siguiente comando:
+
+	>>>import MediasMatematicas
+	>>>
+
+Si no sale ningun error, podemos usarlo sin ningun problema en nuestros
+propios scripts.
+

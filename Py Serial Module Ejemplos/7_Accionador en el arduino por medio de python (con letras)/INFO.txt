@@ -1,0 +1,5 @@
+METODO DE CONTROL DEL LED 13 DEL ARDUINO (LED ENCIMA DEL ARDUINO)
+EL CODIGO EN ESTE CASO (TANTO EN ARDUINO, COMO EN PY 2 y PY 3) esta hecho 
+solo para reconocer las letras del abecedario. en estos casos los codigos de py 2 y py 3 son
+muy diferentes ya que py 3 requiere que los datos enviados sean encodeados (algo que 
+en py 2 era automatico e interno) 

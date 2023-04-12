@@ -1,0 +1,2 @@
+Se puede enviar "int" como "str" asi como "float" desde el arduino
+a python siempre llegara "str" sea en python 2.x o 3.x
